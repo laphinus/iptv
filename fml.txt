@@ -102,8 +102,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 缙云新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 云和新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-嵊泗新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 潍坊二套经济生活频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
 潍坊三套公共频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
 潍坊四套科教频道,https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
