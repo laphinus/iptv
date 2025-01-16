@@ -12,7 +12,6 @@
 家庭剧场,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
 精品大剧,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
 明星大片,http://[2409:8087:5e20:24::d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-
 CCTV-1,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV-4,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
 CCTV-6,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
@@ -22,7 +21,6 @@ CCTV-9,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000014583/index
 CCTV-11,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
 CCTV-12,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000032494/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
 CCTV-17,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
-
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
 CCTV-6,http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
@@ -31,7 +29,6 @@ CCTV-8,http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
-
 湖南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000032695/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
 浙江卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
 江苏卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000001000001828/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3
@@ -69,7 +66,6 @@ CGTN,http://[2409:8087:5e20:24::d]:6610/000000001000/7745129417417101820/index.m
 江西卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive&id=1000000005000265032&livemode=1&stbId=3
 河北卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&id=5000000006000040016&livemode=1&stbId=3
 东南卫视,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000005000265033/index.m3u8?channel-id=ystenlive&id=1000000005000265033&livemode=1&stbId=3
-
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
@@ -142,14 +138,12 @@ CGTN,http://[2409:8087:5e20:24::d]:6610/000000001000/7745129417417101820/index.m
 青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=254d8d121720524679
 青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=8a6ec5131720526922
 延边一套新闻综合频道,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
-
-电视,#genre#
+Mine,#genre#
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
 CCTV5 体育,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
-
 CCTV2 财经,http://www.clmy.cc:35455/gaoma/cctv2.m3u8
 CCTV5 体育,http://www.clmy.cc:35455/gaoma/cctv5.m3u8
 CCTV5+ 体育赛事,http://www.clmy.cc:35455/gaoma/cctv5p.m3u8
@@ -157,7 +151,6 @@ CCTV 10 科教,http://www.clmy.cc:35455/gaoma/cctv10.m3u8
 CCTV 13 新闻,http://www.clmy.cc:35455/gaoma/cctv13.m3u8
 CCTV 15 音乐,http://www.clmy.cc:35455/gaoma/cctv15.m3u8
 CCTV 16 奥林匹克,http://www.clmy.cc:35455/gaoma/cctv16.m3u8
-
 CCTV1 综合,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV4 中文国际,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
 CCTV6 电影,http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
