@@ -67,7 +67,6 @@ CETV-4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u
 
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-余杭未来频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 文成新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 绍兴文化影视频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
