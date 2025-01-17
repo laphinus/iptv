@@ -1,4 +1,41 @@
 电视,#genre#
+CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
+CCTV-6,http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
+CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
+CCTV-8,http://183.251.61.207/PLTV/88888888/224/3221225806/index.m3u8
+CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
+CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
+安徽卫视,http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
+北京卫视,http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
+东方卫视,http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
+广东卫视,http://183.251.61.207/PLTV/88888888/224/3221225824/index.m3u8
+浙江卫视,http://183.251.61.207/PLTV/88888888/224/3221225825/index.m3u8
+广西卫视,http://183.251.61.207/PLTV/88888888/224/3221225836/index.m3u8
+贵州卫视,http://183.251.61.207/PLTV/88888888/224/3221225838/index.m3u8
+海南卫视,http://183.251.61.207/PLTV/88888888/224/3221225855/index.m3u8
+河北卫视,http://183.251.61.207/PLTV/88888888/224/3221225837/index.m3u8
+河南卫视,http://183.251.61.207/PLTV/88888888/224/3221225842/index.m3u8
+湖北卫视,http://183.251.61.207/PLTV/88888888/224/3221225840/index.m3u8
+湖南卫视,http://183.251.61.207/PLTV/88888888/224/3221225827/index.m3u8
+吉林卫视,http://183.251.61.207/PLTV/88888888/224/3221225851/index.m3u8
+江苏卫视,http://183.251.61.207/PLTV/88888888/224/3221225847/index.m3u8
+江西卫视,http://183.251.61.207/PLTV/88888888/224/3221225834/index.m3u8
+辽宁卫视,http://183.251.61.207/PLTV/88888888/224/3221225832/index.m3u8
+内蒙卫视,http://183.251.61.207/PLTV/88888888/224/3221225846/index.m3u8
+宁夏卫视,http://183.251.61.207/PLTV/88888888/224/3221225849/index.m3u8
+山东卫视,http://183.251.61.207/PLTV/88888888/224/3221225843/index.m3u8
+山西卫视,http://183.251.61.207/PLTV/88888888/224/3221225839/index.m3u8
+陕西卫视,http://183.251.61.207/PLTV/88888888/224/3221225850/index.m3u8
+深圳卫视,http://183.251.61.207/PLTV/88888888/224/3221225848/index.m3u8
+天津卫视,http://183.251.61.207/PLTV/88888888/224/3221225830/index.m3u8
+新疆卫视,http://183.251.61.207/PLTV/88888888/224/3221225852/index.m3u8
+云南卫视,http://183.251.61.207/PLTV/88888888/224/3221225853/index.m3u8
+黑龙江卫视,http://183.251.61.207/PLTV/88888888/224/3221225862/index.m3u8
+重庆卫视,http://39.134.65.66:80/wh7f454c46tw1804581729_1240695548/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1554599577&from=1&hms_devid=126
+甘肃卫视,http://39.134.65.66:80/wh7f454c46tw1795052499_2123886623/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8?icpid=88888888&RTS=1554599567&from=1&hms_devid=126
+
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
@@ -69,3 +106,13 @@
 青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=254d8d121720524679
 青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=8a6ec5131720526922
 延边一套新闻综合频道,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
+Mine,#genre#
+凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
+凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
+CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
+CCTV5 体育,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
+CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
+CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
+CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
+
