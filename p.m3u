@@ -130,11 +130,6 @@ http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1,河源综合频道 
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1,哈尔滨新闻综合频道 
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1,哈尔滨生活频道 
-http://stream.hrbtv.net/shpd/sd/live.m3u8
-#EXTINF:-1,哈尔滨影视频道 
 http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1,崇明电视台 
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
@@ -192,10 +187,6 @@ http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1,镇江二套社会民生频道 
 http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-#EXTINF:-1,安徽影视频道 
-http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1,安徽经济生活频道 
-http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1,滁州新闻综合频道 
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1,滁州公共频道 
