@@ -63,10 +63,8 @@ CETV4,http://www.tlbbsh.cn:8990/udp/234.1.3.190:5000
 上虞新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都频道,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 龙游新闻综合频道,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游生活娱乐频道,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-衢江新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 平湖新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 松阳新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
