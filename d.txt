@@ -108,7 +108,9 @@ Mine,#genre#
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-CCTV5 体育,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
+CCTV-5,http://xl5h.top:8188/udp/239.29.1.134:5000
+CCTV-5,http://118.116.80.3:7788/udp/239.93.42.37:5140
+CCTV-5+,http://xl5h.top:8188/udp/239.29.1.10:5001
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8

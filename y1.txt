@@ -84,8 +84,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
 贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
@@ -95,7 +93,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-CCTV5 体育,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
