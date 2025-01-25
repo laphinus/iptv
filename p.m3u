@@ -1,4 +1,4 @@
-#EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
+#EXTM3U 
 
 #EXTINF:-1,CCTV-1 
 http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8

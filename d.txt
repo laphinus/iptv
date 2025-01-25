@@ -1,9 +1,7 @@
 电视,#genre#
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-CCTV-6,http://huaqiao.9966.org:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8,http://huaqiao.9966.org:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
@@ -108,9 +106,8 @@ Mine,#genre#
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-CCTV-5,http://xl5h.top:8188/udp/239.29.1.134:5000
-CCTV-5,http://118.116.80.3:7788/udp/239.93.42.37:5140
-CCTV-5+,http://xl5h.top:8188/udp/239.29.1.10:5001
+CCTV-5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
+CCTV-5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8

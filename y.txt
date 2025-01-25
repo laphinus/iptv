@@ -91,8 +91,4 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
 青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=254d8d121720524679
 青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=8a6ec5131720526922
-CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
-CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
-CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
-CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
 

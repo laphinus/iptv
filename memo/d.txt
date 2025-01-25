@@ -1,9 +1,7 @@
 电视,#genre#
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-CCTV-6,http://huaqiao.9966.org:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8,http://huaqiao.9966.org:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
@@ -65,9 +63,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-哈尔滨新闻综合频道,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活频道,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨影视频道,http://stream.hrbtv.net/yspd/sd/live.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
@@ -96,8 +91,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
 贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
@@ -113,6 +106,9 @@ Mine,#genre#
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv 
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u8
+CCTV-5,http://xl5h.top:8188/udp/239.29.1.134:5000
+CCTV-5,http://118.116.80.3:7788/udp/239.93.42.37:5140
+CCTV-5+,http://xl5h.top:8188/udp/239.29.1.10:5001
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
