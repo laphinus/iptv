@@ -63,10 +63,8 @@ CETV4-中国教育4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/i
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 纪实科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
-山东齐鲁 ,http://huaqiao.9966.org:9901/tsfile/live/0131_3.m3u8?key=txiptv
-山东文旅 ,http://huaqiao.9966.org:9901/tsfile/live/0131_5.m3u8?key=txiptv
 
-义乌新闻综合 ,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
+义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 萧山综合频道 ,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 象山电视台新闻综合频道 ,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 文成新闻综合频道 ,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
