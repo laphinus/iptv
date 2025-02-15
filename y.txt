@@ -23,7 +23,7 @@ CCTV17,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 辽宁卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225832/index.m3u8
 重庆卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225831/index.m3u8
 黑龙江卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225862/index.m3u8
-四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8
+四川卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 东南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225833/index.m3u8
 云南卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225853/index.m3u8
