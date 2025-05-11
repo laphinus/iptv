@@ -35,7 +35,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 重庆卫视,http://39.134.65.66:80/wh7f454c46tw1804581729_1240695548/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1554599577&from=1&hms_devid=126
 甘肃卫视,http://39.134.65.66:80/wh7f454c46tw1795052499_2123886623/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8?icpid=88888888&RTS=1554599567&from=1&hms_devid=126
 
-义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 萧山综合频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 象山电视台新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 文成新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
@@ -54,12 +53,8 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 云和新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 烟台公共频道,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
-青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 河源公共频道,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合频道,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
-广安公共频道,http://live1.gatv.com.cn:85/live/GGPD.m3u8
 德阳公共频道,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 新安电视台综合频道,http://tvpull.dxhmt.cn/tv/10323-1.m3u8
 焦作新闻综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
@@ -82,11 +77,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 高邮一套新闻综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 滁州新闻综合频道,http://live.cztv.cc:85/live/xwpd.m3u8
 滁州公共频道,http://live.cztv.cc:85/live/ggpd.m3u8
-贺州电视台综合频道,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-青海经视频道,http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=254d8d121720524679
-青海都市频道,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=8a6ec5131720526922
 
