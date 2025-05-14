@@ -3,3 +3,11 @@ https://gitee.com/zhanglaoshidz/iptv/blob/master/ipv
 https://gitee.com/xldjh/tv/blob/master/FJMobile-TV.m3u#
 
 https://www.right.com.cn/forum/thread-4059749-1-1.html
+
+iptv 
+	m3u-txt
+	#.*?,
+
+	txt->m3u
+	(\S*?),(http.*?.m3u8)
+	#EXTINF:-1,$1\r$2
