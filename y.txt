@@ -1,4 +1,3 @@
-家用,#genre#
 CCTV-1综合,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
 CCTV-3综艺,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8
 CCTV-4中文国际,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
@@ -62,14 +61,15 @@ CETV4-中国教育4,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/i
 延边卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 纪实科教,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 动作电影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
-CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
-CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-CCTV-6,http://huaqiao.9966.org:9901/tsfile/live/0006_1.m3u8?key=txiptv
-CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8,http://huaqiao.9966.org:9901/tsfile/live/0008_1.m3u8?key=txiptv
-CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
-CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
-CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-1综合,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-4中文国际,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
+CCTV-6电影,http://huaqiao.9966.org:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-7国防军事,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
+CCTV-8电视剧,http://huaqiao.9966.org:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-9纪录,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
+CCTV-10科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-11戏曲,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
+CCTV-12社会与法,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 安徽卫视,http://183.251.61.207/PLTV/88888888/224/3221225844/index.m3u8
 北京卫视,http://183.251.61.207/PLTV/88888888/224/3221225826/index.m3u8
 东方卫视,http://183.251.61.207/PLTV/88888888/224/3221225828/index.m3u8
@@ -221,7 +221,6 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-五通桥综合频道,https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
 西昌综合频道,http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 新安电视台综合频道,http://tvpull.dxhmt.cn/tv/10323-1.m3u8

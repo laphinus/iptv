@@ -1,2 +1,0 @@
-山东齐鲁,http://huaqiao.9966.org:9901/tsfile/live/0131_3.m3u8?key=txiptv
-山东文旅,http://huaqiao.9966.org:9901/tsfile/live/0131_5.m3u8?key=txiptv
