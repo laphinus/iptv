@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,第一剧场 http://58.221.214.82:9901/tsfile/live/0015_2.m3u8?key=txiptv
 #EXTINF:-1,第一剧场 http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 #EXTINF:-1,风云剧场 http://180.213.174.225:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&auth
@@ -216,11 +217,6 @@
 #EXTINF:-1,浙江数码时代 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1,浙江数码时代 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1,浙江数码时代 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
-#EXTINF:-1,浙江教科影院 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1,浙江教科影视 http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
-#EXTINF:-1,浙江教科影视 http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67
-#EXTINF:-1,浙江教科影视 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1,浙江教科影视 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1,浙江公共新闻 http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1,浙江公共新闻 https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-2.ctv
 #EXTINF:-1,浙江公共新闻 https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
@@ -237,27 +233,13 @@
 #EXTINF:-1,龙游新闻综合 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 #EXTINF:-1,龙泉新闻综合 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1,龙泉新闻综合 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed&quot;
-#EXTINF:-1,青田电视台 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1,遂昌综合 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 #EXTINF:-1,遂昌新闻综合 http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 #EXTINF:-1,象山综合 http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
-#EXTINF:-1,象山综合 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1,象山电视台新闻综合 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
-#EXTINF:-1,象山新闻综合 http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1,衢江新闻综合 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
 #EXTINF:-1,衢江新闻综合 https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.ctv
 #EXTINF:-1,萧山生活 https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1,萧山生活 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-#EXTINF:-1,萧山新闻综合 https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-2.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-9.m3u8
-#EXTINF:-1,萧山新闻综合 http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-3.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-8.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-1.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-4.m3u8
-#EXTINF:-1,萧山新闻综合 https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-7.m3u8
 #EXTINF:-1,苍南新闻综合 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1,苍南新闻综合 https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-4.ctv
 #EXTINF:-1,苍南新闻综合 https://stream1.freetv.fun/cang-nan-xin-wen-zong-he-2.m3u8
