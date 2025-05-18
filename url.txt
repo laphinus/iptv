@@ -4,6 +4,8 @@ https://gitee.com/xldjh/tv/blob/master/FJMobile-TV.m3u#
 
 https://www.right.com.cn/forum/thread-4059749-1-1.html
 
+https://gitee.com/gb1984/iptv
+
 iptv 
 	m3u-txt
 	#.*?,

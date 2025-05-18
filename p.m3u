@@ -394,8 +394,7 @@ http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 #EXTINF:-1,漳浦综合
 http://220.161.87.62:8090/hls/0/index.m3u8?zfud
 #EXTINF:-1,长宁综合频道
-http://cnpull.sccnfb.com/live/123456.m3u8#EXTINF:-1,#
-http://cnpull.sccnfb.com:80/live/123456.m3u8
+http://cnpull.sccnfb.com/live/123456.m3u8
 #EXTINF:-1,昭化综合频道
 http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 #EXTINF:-1,浙江教科
