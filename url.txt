@@ -11,5 +11,6 @@ iptv
 	#.*?,
 
 	txt->m3u
-	(\S*?),(http.*?.m3u8)
-	#EXTINF:-1,$1\r$2
+	(\S*?),(http.*?.m3u8)  ->   #EXTINF:-1,$1\r$2
+	
+	(\S*?) (http.*?\r)     ->  #EXTINF:-1,$1\r$2
