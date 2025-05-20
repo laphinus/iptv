@@ -1,0 +1,4 @@
+宁波TV1,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
+宁波TV2,http://www.flyskyman.cn:4022/rtp/233.50.201.178:5140
+宁波TV3,http://www.flyskyman.cn:4022/rtp/233.50.201.179:5140
+宁波TV4,http://www.jeremyoto.com:82/rtp/233.50.201.180:5140
