@@ -8,6 +8,14 @@ https://www.right.com.cn/forum/thread-4059749-1-1.html
 
 https://gitee.com/gb1984/iptv
 
+FJMobile-TV
+https://gitee.com/xldjh/tv/blob/master/FJMobile-TV.m3u
+福建PLTV移动CDN版
+https://www.right.com.cn/forum/thread-4059749-1-1.html
+福建移动 （请各自自测）
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5574877
+
+
 iptv 
 	m3u-txt
 	#.*?,
