@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="171" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjdongfangcj/FJDFCJYXTB0113.png" group-title="测试频道",CCTV1(ipv6)
+http://[2409:8087:3408:20:1040:0:1:114]/wh7f454c46tw2040671939_890640103/ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8?icpid=88888888&RTS=1760861322&from=99&popid=99&hms_devid=5652&prioritypopid=99&vqe=3
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="172" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjdongfangcj/FJDFCJYXTB0113.png" group-title="测试频道",东方卫视(ipv6)
+http://[2409:8087:3400:20:1000::120]/wh7f454c46tw2128395878_-1087065840/ott.fj.chinamobile.com/PLTV/88888888/224/3221227059/index.m3u8?icpid=88888888&RTS=1760861410&from=99&ocs=2_2409:8087:3400:20:1000::129_80&popid=99&hms_devid=343&prioritypopid=99&vqe=3
+#EXTINF:-1 tvg-name="东方财经" tvg-id="174" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjdongfangcj/FJDFCJYXTB0113.png" group-title="数字频道",东方财经
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227087/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-id="196" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-shanghaijishi/FJYXTBGX1229.png" group-title="数字频道",纪实人文
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-id="183" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-720P-hxjc/FJYXTB0112.png" group-title="数字频道",欢笑剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227145/index.m3u8
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-id="242" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-2000k-576P-xianfengpy/FJYXTB0112.png" group-title="数字频道",先锋乒羽
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="175" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-720P-dmxc/FJYXTB0112.png" group-title="数字频道",动漫秀场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227071/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-id="187" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-720P-fztd/FJYXTB0112.png" group-title="数字频道",法治天地
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227176/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="173" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-2000k-1080P-happyfishing/FJYXTB0112.png" group-title="数字频道",快乐垂钓
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226940/index.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-id="221" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongjy/FJYXTB0112.png" group-title="数字频道",山东教育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225873/index.m3u8
+#EXTINF:-1 tvg-name="茶频道" tvg-id="177" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-2000k-576P-chapd/FJYXTB0112.png" group-title="数字频道",茶频道
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="222" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-bstyouxify/FJYXTB0112.png" group-title="数字频道",游戏风云
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227075/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="178" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjdushijc/FJYXTB0112.png" group-title="数字频道",都市剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-id="179" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjquanjs/LYYXTB.png" group-title="数字频道",乐游
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227083/index.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-id="185" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjjinsexuetang/FJYXTB0112.png" group-title="数字频道",金色学堂
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227208/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-id="188" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjshenghuoss/FJYXTB0112.png" group-title="数字频道",生活时尚
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-id="169" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-mgjinyingjishi/FJYXTB0112.png" group-title="数字频道",金鹰纪实
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="168" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-8000k-1080P-yingyinkaton/FJYXTB0112.png" group-title="数字频道",金鹰卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
+#EXTINF:-1 tvg-name="炫动卡通" tvg-id="" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xuandongkaton/FJYXTB0112.png" group-title="数字频道",炫动卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-id="135" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/kakukaton/FJYXTB0112.png" group-title="数字频道",卡酷少儿
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="159" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fjjiajiakatong/FJYXTB0112.png" group-title="数字频道",嘉佳卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227230/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="208" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/youmankaton/FJYXTB0112.png" group-title="数字频道",优漫卡通
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-id="369" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV19.png" group-title="精彩轮播",精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-id="360" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV04.png" group-title="精彩轮播",古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-id="361" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV02.png" group-title="精彩轮播",军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-id="362" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV05.png" group-title="精彩轮播",家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/index.m3u8
+#EXTINF:-1 tvg-name="热播精选" tvg-id="364" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV42.png" group-title="精彩轮播",热播精选
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-id="363" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV17.png" group-title="精彩轮播",爱情喜剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-id="350" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV03.png" group-title="精彩轮播",动作电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-id="366" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV10.png" group-title="精彩轮播",惊悚悬疑
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-id="344" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shuzi/hmdy.png" group-title="精彩轮播",黑莓电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="367" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV21.png" group-title="精彩轮播",金牌综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-id="370" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV18.png" group-title="精彩轮播",精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8
+#EXTINF:-1 tvg-name="精品萌宠" tvg-id="371" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV39.png" group-title="精彩轮播",精品萌宠
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-id="373" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV07.png" group-title="精彩轮播",中国功夫
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-id="345" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shuzi/hmdh.png" group-title="精彩轮播",黑莓动画
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-id="374" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV11.png" group-title="精彩轮播",怡伴健康
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-id="355" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV15.png" group-title="精彩轮播",潮妈辣婆
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-id="356" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV44.png" group-title="精彩轮播",哒啵赛事
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225894/index.m3u8
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="357" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV45.png" group-title="精彩轮播",哒啵电竞
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
+#EXTINF:-1 tvg-name="精品纪录" tvg-id="368" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV20.png" group-title="精彩轮播",精品纪录
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-id="358" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV01.png" group-title="精彩轮播",军事评论
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-id="359" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/NewTV/NewTV16.png" group-title="精彩轮播",炫舞未来
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/index.m3u8
+#EXTINF:-1 tvg-name="纯享4K" tvg-id="346" tvg-logo="https://gitee.com/Black_crow/epglogo/blob/master/shuzi/cx4k.png" group-title="精彩轮播",纯享4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-name="精品综合" tvg-id="" tvg-logo="" group-title="精彩轮播",精品综合
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-name="4K综艺" tvg-id="" tvg-logo="" group-title="精彩轮播",4K综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 tvg-name="咪咕全民热练" tvg-id="" tvg-logo="" group-title="精彩轮播",咪咕全民热练
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
+#EXTINF:-1 tvg-name="咪咕综合体育" tvg-id="" tvg-logo="" group-title="精彩轮播",咪咕综合体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227047/index.m3u8
+#EXTINF:-1 tvg-name="咪咕精彩足球" tvg-id="" tvg-logo="" group-title="精彩轮播",咪咕精彩足球
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227158/index.m3u8

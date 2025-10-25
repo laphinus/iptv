@@ -1,9 +1,7 @@
 家用,#genre#
 CCTV-1,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
 CCTV-4,http://183.251.61.207/PLTV/88888888/224/3221225802/index.m3u8
-CCTV-6,http://huaqiao.9966.org:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8,http://huaqiao.9966.org:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-11,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
@@ -157,19 +155,20 @@ CCTV-12,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 [四川]乐至综,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 Mine,#genre# 
+CCTV2 财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u
-CCTV-5,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 CCTV-5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
-CCTV-5+,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+CCTV-5,http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 CCTV-5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8 
+CCTV-5+,http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
 CCTV 10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8 
 CCTV 13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8 
 CCTV 15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8 
-凤凰资讯 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv 
 凤凰资讯,http://203.205.191.53/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8 
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8 
-凤凰中文 720,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv 
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8 
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8 
