@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1综合
-http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
 #EXTINF:-1,CCTV-3综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8
+#EXTINF:-1,CCTV-4中文国际
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1,CCTV-6电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
 #EXTINF:-1,CCTV-7国防军事
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1,CCTV-8电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227449/index.m3u8
 #EXTINF:-1,CCTV-9纪录
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1,CCTV-10科教
