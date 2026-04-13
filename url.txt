@@ -1,5 +1,4 @@
-https://iptv.b2og.com/
-
+https://github.com/wcb1969/iptv/
 https://gitee.com/zhanglaoshidz/iptv/blob/master/ipv
 
 https://gitee.com/xldjh/tv/blob/master/FJMobile-TV.m3u#
