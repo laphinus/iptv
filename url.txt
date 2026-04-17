@@ -1,3 +1,8 @@
+2026-4-17
+https://github.com/ioptu/IPTV.txt2m3u.player
+https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
+
+
 https://github.com/wcb1969/iptv/
 https://gitee.com/zhanglaoshidz/iptv/blob/master/ipv
 
