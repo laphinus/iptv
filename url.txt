@@ -24,6 +24,8 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5574877
 https://github.com/kimcrowing/IPTV/wiki/%E7%A8%B3%E5%AE%9A%E7%9B%B4%E6%92%AD%E6%BA%90
 2.wcb1969
 https://github.com/wcb1969/iptv/
+3.caiht1986
+https://github.com/caiht1986/MyIPTV/blob/main/MyIPTV.m3u
 
 
 iptv 

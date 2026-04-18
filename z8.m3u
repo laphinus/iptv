@@ -30,7 +30,14 @@ http://39.134.62.92:6610/000000001000/8183388942203045169/1.m3u8
 http://39.135.135.62:80/wh7f454c46tw1793005299_-1079022645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225590/index.m3u8?icpid=88888888&RTS=1554599565&from=1&hms_devid=699
 #EXTINF:-1,CCTV4高清
 http://39.134.65.70:80/wh7f454c46tw1793913244_-359521471/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8?icpid=88888888&RTS=1554599566&from=1&hms_devid=135
-
+#EXTINF:-1,CCTV4 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1,CCTV4 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1,CCTV4 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227441/index.m3u8
+#EXTINF:-1,CCTV4 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1,CCTV4 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV4 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227225/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV4 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227441/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV4 http://27.148.240.138/PLTV/88888888/224/3221227331/1.m3u8
 
 
 #EXTINF:-1,CCTV6
@@ -67,7 +74,20 @@ http://112.17.40.140/PLTV/88888888/224/3221226487/index.m3u8
 http://39.134.62.50:6610/000000001000/6117099895556651277/1.m3u8
 #EXTINF:-1,CCTV6
 http://39.135.135.67:80/wh7f454c46tw1817117021_1764723209/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8?icpid=88888888&RTS=1554599589&from=1&hms_devid=671
-
+#EXTINF:-1,CCTV6
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227275/index.m3u8
+#EXTINF:-1,CCTV6
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
+#EXTINF:-1,CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1,CCTV6
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227260/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV6
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227275/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV6
+http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227438/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV6
+http://27.148.240.138/PLTV/88888888/224/3221227124/1.m3u8
 
 
 #EXTINF:-1,CCTV8HD
@@ -100,4 +120,9 @@ http://112.17.40.140/PLTV/88888888/224/3221226493/index.m3u8
 http://39.134.62.84:6610/000000001000/8871488051501921127/1.m3u8
 #EXTINF:-1,CCTV8
 http://39.135.135.7:80/wh7f454c46tw1799476779_-134792202/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8?icpid=88888888&RTS=1554599571&from=1&hms_devid=675
-
+#EXTINF:-1,CCTV8 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8
+#EXTINF:-1,CCTV8 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227449/index.m3u8
+#EXTINF:-1,CCTV8 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1,CCTV8 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227266/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV8 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227449/index.m3u8?servicetype=1
+#EXTINF:-1,CCTV8 http://27.148.240.138/PLTV/88888888/224/3221227348/1.m3u8
