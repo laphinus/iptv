@@ -20,6 +20,12 @@ https://www.right.com.cn/forum/thread-4059749-1-1.html
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5574877
 
 
+1.kimcrowing
+https://github.com/kimcrowing/IPTV/wiki/%E7%A8%B3%E5%AE%9A%E7%9B%B4%E6%92%AD%E6%BA%90
+2.wcb1969
+https://github.com/wcb1969/iptv/
+
+
 iptv 
 	m3u-txt
 	#.*?,
@@ -28,3 +34,6 @@ iptv
 	(\S*?),(http.*?.m3u8)  ->   #EXTINF:-1,$1\r$2
 	
 	(\S*?),(http.*?\r)     ->  #EXTINF:-1,$1\r$2
+	
+	
+已测github wcb1969/iptv/ 福建v6
