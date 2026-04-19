@@ -4,13 +4,13 @@ http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:-1,CCTV-3综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8
 #EXTINF:-1,CCTV-4中文国际
-http://221.13.234.116:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 #EXTINF:-1,CCTV-6电影
-http://221.13.234.116:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.241.133.180:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-7国防军事
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:-1,CCTV-8电视剧
-http://221.13.234.116:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.241.133.180:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-9纪录
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:-1,CCTV-10科教
