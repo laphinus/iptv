@@ -3,15 +3,15 @@
 #EXTINF:-1,CCTV-1综合
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV2 财经",CCTV2 财经 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
+http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u
 #EXTINF:-1,CCTV-3综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-4中文国际
 http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV-5",CCTV-5 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
+http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+",CCTV-5+ 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8 
+http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1,CCTV-6电影
 http://113.241.133.180:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-7国防军事
@@ -38,18 +38,10 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227192/index.m3u8?servicetyp
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8?servicetype=1
 #EXTINF:-1,东南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
-#EXTINF:-1,福建乡村振兴公共
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8?servicetype=1
 #EXTINF:-1,福建新闻
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8?servicetype=1
-#EXTINF:-1,福建电视剧
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
 #EXTINF:-1,福建旅游
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8?servicetype=1
-#EXTINF:-1,福建经济生活
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
-#EXTINF:-1,福建文体
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
 #EXTINF:-1,福建少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
 #EXTINF:-1,海峡卫视
