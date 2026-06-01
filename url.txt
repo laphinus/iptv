@@ -1,5 +1,7 @@
 https://cdn.jsdelivr.net/gh/laphinus/iptv@main
 
+best-fan/iptv-sources
+https://github.com/best-fan/iptv-sources
 2026-4-17
 https://github.com/ioptu/IPTV.txt2m3u.player
 https://gh-proxy.org/github.com/ioptu/migu_video/raw/refs/heads/main/migu.m3u
