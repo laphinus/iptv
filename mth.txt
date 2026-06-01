@@ -135,23 +135,20 @@ CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/i
 [四川]乐至综,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 
 Mine,#genre# 
+CCTV2 财经,http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2 财经,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
-CCTV2 财经,http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u
 CCTV5,http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
 CCTV5+,http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8 
 CCTV10 科教,http://183.251.61.207/PLTV/88888888/224/3221225814/index.m3u8 
-CCTV13 新闻,http://183.251.61.207/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13 新闻,http://39.165.39.49:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
  
 CCTV15 音乐,http://183.251.61.207/PLTV/88888888/224/3221225818/index.m3u8
 CGTN,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=765c586d940e26ba9162b2de08925d53&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20260417142307&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=39.98.168.103&SecurityKey=20260417142307&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=51e3b1e8d4498e313165683b65195f25&ddCalcu=5521vfea53a9ba115e68bd348469586e1331&sv=10004&ct=android
  
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰资讯,http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰中文,http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 少儿,#genre# 
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#
