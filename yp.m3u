@@ -3,21 +3,21 @@
 #EXTINF:-1,CCTV-1综合
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV2 财经",CCTV2 财经 
-http://183.251.61.207/PLTV/88888888/224/3221225800/index.m3u
+http://39.165.39.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-3综艺
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-4中文国际
-http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8?servicetype=1
+http://39.165.39.49:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-5",CCTV-5 
-http://183.251.61.207/PLTV/88888888/224/3221225803/index.m3u8
+http://39.165.39.49:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-5+",CCTV-5+ 
-http://183.251.61.207/PLTV/88888888/224/3221225821/index.m3u8
+http://39.165.39.49:85/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-6电影
-http://113.241.133.180:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.165.39.49:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-7国防军事
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-8电视剧
-http://113.241.133.180:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.165.39.49:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-9纪录
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-10科教
@@ -26,9 +26,16 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8?servicetyp
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8?servicetype=1
 #EXTINF:-1,CCTV-12社会与法
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8?servicetype=1
+#EXTINF:-1 ,CCTV13新闻
+http://39.165.39.49:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV-17农业农村
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
-#EXTINF:-1,CETV1-中国教育1
+#EXTINF:-1,凤凰资讯
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1,凤凰中文
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1,凤凰中文
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0#EXTINF:-1,CETV1-中国教育1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
 #EXTINF:-1,CETV2-中国教育2
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227206/index.m3u8?servicetype=1
