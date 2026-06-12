@@ -1,9 +1,9 @@
 家用,#genre#
 CCTV-1综合,http://183.251.61.207/PLTV/88888888/224/3221225812/index.m3u8
-CCTV-4中文国际,http://116.128.243.121:9905/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6电影,http://116.128.243.121:9905/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4中文国际,http://222.223.41.27:8888/hls/4/index.m3u8
+CCTV-6电影,http://222.223.41.27:8888/hls/6/index.m3u8
 CCTV-7国防军事,http://183.251.61.207/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-8电视剧,http://116.128.243.121:9905/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8电视剧,http://222.223.41.27:8888/hls/8/index.m3u8
 CCTV-9纪录,http://183.251.61.207/PLTV/88888888/224/3221225820/index.m3u8
 CCTV-11戏曲,http://183.251.61.207/PLTV/88888888/224/3221225815/index.m3u8
 CCTV-12社会与法,http://183.251.61.207/PLTV/88888888/224/3221225816/index.m3u8
