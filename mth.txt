@@ -45,7 +45,6 @@ CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/i
 [吉林]双阳综合,http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
 [江苏]大丰新闻,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 [江苏]赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
-[江苏]江阴新闻综合,http://221.228.70.101:8080/live/xinwen.m3u8
 [江苏]金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 [江苏]靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 [江苏]泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
@@ -65,7 +64,6 @@ CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/i
 [江苏]如东新闻综,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 [四川]什邡新闻频,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 [四川]叙州新闻综,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-[新疆]兵团十三师新星综合,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 [新疆]兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 [新疆]兵团四师可克达拉综,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
 [浙江]龙泉新闻综,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
@@ -78,7 +76,6 @@ CCTV-17农业农村,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/i
 [浙江]绍兴文化影,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 [浙江]绍兴新闻综,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 [浙江]松阳综合频,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-[浙江]文成综合频,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 [浙江]萧山生活频,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 [浙江]云和新闻综,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 [浙江]诸暨新闻综,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed

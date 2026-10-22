@@ -117,8 +117,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 #EXTINF:-1,[吉林]双阳综合
 http://stream11.jlntv.cn/shuangyang/sd/live.m3u8?zjild
-#EXTINF:-1,[江苏]江阴新闻综合
-http://221.228.70.101:8080/live/xinwen.m3u8
 #EXTINF:-1,[江苏]靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8?zjiangsd
 #EXTINF:-1,[江苏]武进生活频道
@@ -129,8 +127,6 @@ https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
 #EXTINF:-1,[河北]邯郸科技教育
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
-#EXTINF:-1,[新疆]兵团十三师新星综合
-http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd
 #EXTINF:-1,[新疆]兵团十四师昆玉综合
 http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
 #EXTINF:-1,[新疆]兵团四师可克达拉综
@@ -154,8 +150,6 @@ http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
 #EXTINF:-1,[浙江]绍兴新闻综
 http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 #EXTINF:-1,[浙江]松阳综合频
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed
-#EXTINF:-1,[浙江]文成综合频
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 #EXTINF:-1,[浙江]萧山生活频
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed

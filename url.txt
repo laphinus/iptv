@@ -46,4 +46,3 @@ iptv
 	(\S*?),(http.*?\r)     ->  #EXTINF:-1,$1\r$2
 	
 	
-已测github wcb1969/iptv/ 福建v6
