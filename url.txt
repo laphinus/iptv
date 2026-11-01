@@ -1,5 +1,12 @@
 https://cdn.jsdelivr.net/gh/laphinus/iptv@main
 
+
+张先生/我的直播
+https://gitee.com/zhanghuan12345/my-live
+
+Tvlist-awesome-m3u-m3u8
+https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/tree/master/m3u
+
 电视直播源分享 2026.1 地方台
 https://zhuanlan.zhihu.com/p/721477103
 
