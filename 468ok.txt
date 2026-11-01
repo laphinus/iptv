@@ -1,20 +1,9 @@
-#EXTINF:-1,CCTV-4中文国际
-http://183.129.255.66:8480/hls/4/index.m3u8
+
 #EXTINF:-1,CCTV-4中文国际
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227225/index.m3u8
-#EXTINF:-1,CCTV-4中文国际
-http://222.223.41.27:8888/hls/4/index.m3u8
 
-#EXTINF:-1,CCTV-6电影
-http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 #EXTINF:-1,CCTV-6电影
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227260/index.m3u8
-#EXTINF:-1,CCTV-6电影
-http://222.223.41.27:8888/hls/6/index.m3u8
 
 #EXTINF:-1,CCTV-8电视剧
-http://222.223.41.27:8888/hls/8/index.m3u8
-#EXTINF:-1,CCTV-8电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227266/index.m3u8
-#EXTINF:-1,CCTV-8电视剧
-http://222.223.41.27:8888/hls/8/index.m3u8
